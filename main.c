@@ -23,10 +23,7 @@ while(n>0){
    sum=sum+powdigit;
    n/=10;
 
-
-
 }
-
 
 if(sum==originall){
    printf("Armstrong");
@@ -35,14 +32,4 @@ else{
     printf("not armstrong");
 }
 
-
-
-
-
-
-
-
-
-
 }
-
